@@ -36,5 +36,8 @@
         <p>
             <a href="inspect.php">Inspect</a>
         </p>
+        <p>
+            <a href="datatypes.php">Data Types</a>
+        </p>
     </body>
 </html>
