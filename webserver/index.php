@@ -39,5 +39,8 @@
         <p>
             <a href="datatypes.php">Data Types</a>
         </p>
+        <p>
+            <a href="constants.php">Constants</a>
+        </p>
     </body>
 </html>
