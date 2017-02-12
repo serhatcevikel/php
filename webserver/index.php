@@ -33,5 +33,8 @@
         <p>
             <a href="assign3.php">Assign 3</a>
         </p>
+        <p>
+            <a href="inspect.php">Inspect</a>
+        </p>
     </body>
 </html>
