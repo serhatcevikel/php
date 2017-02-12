@@ -18,7 +18,7 @@
             $cat = 'Siamese';
             // null
             $here = null;
-            echo "$validUser\n$size\n$temp\n$cat\n$here"
+            echo "$validUser<p></p>\n$size<p></p>\n$temp<p></p>\n$cat<p></p>\n$here"
         ?>
     </body>
 </html>
