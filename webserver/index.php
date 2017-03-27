@@ -42,5 +42,8 @@
         <p>
             <a href="02.06.constants.php">Constants</a>
         </p>
+        <p>
+            <a href="02.07.operators.php">Operators</a>
+        </p>
     </body>
 </html>
