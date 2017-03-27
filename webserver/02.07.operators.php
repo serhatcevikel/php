@@ -19,7 +19,7 @@
              
             // subtract 
             $diff = $x - $y; 
-            echo "$x - $y = $diff\n";
+            echo "$x - $y = $diff\n<br>";
              
             // multiply 
             $product = $x * $y; 
