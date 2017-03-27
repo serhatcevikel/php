@@ -15,23 +15,24 @@
              
             // add 
             $sum = $x + $y; 
-            echo "$x + $y = $sum\n"; 
+        
+            <p>echo "$x + $y = $sum\n"</p>;
              
             // subtract 
             $diff = $x - $y; 
-            echo "$x - $y = $diff\n"; 
+            <p>echo "$x - $y = $diff\n"</p>; 
              
             // multiply 
             $product = $x * $y; 
-            echo "$x * $y = $product\n"; 
+            <p>echo "$x * $y = $product\n"</p>; 
              
             // divide and get quotient 
             $quotient = $x / $y; 
-            echo "$x / $y = $quotient\n"; 
+            <p>echo "$x / $y = $quotient\n"</p>; 
              
             // divide and get modulus 
             $modulus = $x % $y; 
-            echo "$x % $y = $modulus\n"; 
+            <p>echo "$x % $y = $modulus\n"</p>; 
         ?>
     </body>
 </html>
