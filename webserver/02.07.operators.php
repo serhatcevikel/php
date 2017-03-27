@@ -23,15 +23,15 @@
              
             // multiply 
             $product = $x * $y; 
-            echo "$x * $y = $product\n";
+            echo "$x * $y = $product<br>";
              
             // divide and get quotient 
             $quotient = $x / $y; 
-            echo "$x / $y = $quotient\n";
+            echo "$x / $y = $quotient<br>";
              
             // divide and get modulus 
             $modulus = $x % $y; 
-            echo "$x % $y = $modulus\n";
+            echo "$x % $y = $modulus<br>";
         ?>
     </body>
 </html>
