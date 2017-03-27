@@ -19,28 +19,28 @@
             ?>
         </p>
         <p>
-            <a href="colors.php">Colors</a>
+            <a href="01.01.colors.php">Colors</a>
         </p>
         <p>
-            <a href="welcome.php">Welcome</a>
+            <a href="01.02.welcome.php">Welcome</a>
         </p>
         <p>
-            <a href="assign1.php">Assign 1</a>
+            <a href="02.01.assign1.php">Assign 1</a>
         </p>
         <p>
-            <a href="assign2.php">Assign 2</a>
+            <a href="02.02.assign2.php">Assign 2</a>
         </p>
         <p>
-            <a href="assign3.php">Assign 3</a>
+            <a href="02.03.assign3.php">Assign 3</a>
         </p>
         <p>
-            <a href="inspect.php">Inspect</a>
+            <a href="02.04.inspect.php">Inspect</a>
         </p>
         <p>
-            <a href="datatypes.php">Data Types</a>
+            <a href="02.05.datatypes.php">Data Types</a>
         </p>
         <p>
-            <a href="constants.php">Constants</a>
+            <a href="02.06.constants.php">Constants</a>
         </p>
     </body>
 </html>
